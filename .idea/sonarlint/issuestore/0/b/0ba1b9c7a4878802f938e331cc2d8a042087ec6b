@@ -1,0 +1,18 @@
+
+Y
+java:S1854">Remove this useless assignment to local variable "bookMyShow".(ª›“Žýÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Æ«Áüûÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(Æ³Œ²ÿÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(ñ¥ùšøÿÿÿÿ
+L
+java:S2440"*Remove this instantiation of "BookMyShow".(ª›“Žýÿÿÿÿ8‚ÃµÃ–2
+J
+java:S1481"/Remove this unused "bookMyShow" local variable.(ª›“Žýÿÿÿÿ
+y
+java:S1128"\Remove this unused import 'org.example.ConcurrencyLocking.OptimisticLocking.OptimisticImpl'.(üæÌæ8„ÃµÃ–2
+~
+java:S1128"aRemove this unused import 'org.example.ConcurrencyLocking.PessimisticLocking.PessimicticLocking'.(ÎÉñ8„ÃµÃ–2
+‡
+java:S1128"eRemove this unused import 'org.example.ConcurrencyLocking.PessimisticLocking.PessimisticWithoutLock'.(²ž­‡ùÿÿÿÿ8†ÃµÃ–2
+j
+java:S1128"HRemove this unused import 'org.example.HashMapImplementation.MyHashMap'.(ÊáÜ¨þÿÿÿÿ8†ÃµÃ–2

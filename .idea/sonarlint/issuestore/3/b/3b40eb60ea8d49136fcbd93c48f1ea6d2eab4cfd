@@ -1,0 +1,7 @@
+
+Z	java:S106#"9Replace this use of System.out or System.err by a logger.(¨ÄÎûÿÿÿÿ8Ñ½µÃ–2
+b
+java:S1128"ERemove this unused import 'java.util.concurrent.locks.ReentrantLock'.(òªø8í½µÃ–2
+H
+java:S1068"+Remove this unused "version" private field.(¸äš8ò½µÃ–2
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Á›áœ8Œ¾µÃ–2
